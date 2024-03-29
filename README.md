@@ -1,4 +1,5 @@
 # Titanic Survival Prediction Model
+![Titanic Survival Prediction Model](https://github.com/NomanAli5700/Titanic-Survival-Codesoft/assets/145667163/06f5d3fa-4374-4248-86d5-3ec42a898371)
 
 **Overview**
 
@@ -40,6 +41,3 @@ NumPy: Numerical computing library.
 Scikit-learn: Machine learning library for building predictive models.
 Matplotlib and Seaborn: Data visualization libraries for exploring the dataset.
 Jupyter Notebook: Interactive development environment for running Python code and documenting the analysis process.
-
-![Uploading Titanic Survival Prediction Model.jpeg…]()
-
